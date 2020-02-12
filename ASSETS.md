@@ -5,4 +5,4 @@
 |Badly off person         |Royalty free image                                  |
 |Backgrounds              |Royalty free image                                  |
 |Text                     |Generated in GIMP                                   |
-|Man in hammock           |https://www.pexels.com/photo/pair-of-red-and-white-low-top-sneakers-914929/|
+|Man in hammock           |CC-0 https://www.pexels.com/photo/pair-of-red-and-white-low-top-sneakers-914929/|
